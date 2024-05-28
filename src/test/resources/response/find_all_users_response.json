@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "User 1",
+      "news": [],
+      "comments": []
+    },
+    {
+      "id": 2,
+      "name": "User 2",
+      "news": [
+        {
+          "id": 1,
+          "title": "News 1",
+          "description": "This is the news 1",
+          "comments": null
+        }
+      ],
+      "comments": [
+        {
+          "id": 1,
+          "description": "This is the comment 1"
+        }
+      ]
+    }
+  ]
+}
